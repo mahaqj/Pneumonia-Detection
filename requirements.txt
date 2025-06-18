@@ -1,0 +1,6 @@
+tensorflow>=2.11
+numpy>=1.23
+matplotlib>=3.7
+scikit-learn>=1.2
+opencv-python>=4.7
+Pillow>=9.5
