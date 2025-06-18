@@ -1,9 +1,8 @@
 # Pneumonia Detection from Chest X-Rays
 
-Pneumonia is a serious lung infection that can be diagnosed through chest X-ray imaging. In this project,
-you will build an AI model capable of detecting pneumonia from X-ray images using deep learning. The
+Pneumonia is a serious lung infection that can be diagnosed through chest X-ray imaging. The
 aim is to explore how computer vision techniques can assist radiologists in diagnosing pneumonia
-accurately and efficiently.
+accurately and efficiently by building AI models capable of detecting pneumonia from X-ray images using deep learning.
 
 ---
 
